@@ -11,6 +11,7 @@
 @interface ViewController ()
 
 @property (nonatomic, strong) UIButton *submitBtn;
+@property (nonatomic, strong) UIButton *checkBtn;
 
 @end
 
