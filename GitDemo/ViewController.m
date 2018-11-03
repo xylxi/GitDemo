@@ -10,6 +10,8 @@
 
 @interface ViewController ()
 
+@property (nonatomic, strong) UIButton *submitBtn;
+
 @end
 
 @implementation ViewController
