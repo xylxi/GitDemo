@@ -13,6 +13,8 @@
 @property (nonatomic, strong) UIButton *submitBtn;
 @property (nonatomic, strong) UIButton *checkBtn;
 
+@property (nonatomic, strong) UIButton *picBtn;
+
 @end
 
 @implementation ViewController
