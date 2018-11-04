@@ -14,6 +14,7 @@
 @property (nonatomic, strong) UIButton *checkBtn;
 
 @property (nonatomic, strong) UIButton *picBtn;
+@property (nonatomic, strong) UIButton *nameBtn;
 
 @end
 
